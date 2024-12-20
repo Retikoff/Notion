@@ -1,8 +1,9 @@
-# React + Vite
+# Simple notion app made with Vite + JSON server
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Notion app build with [Vite](https://vite.dev/), [React router](https://github.com/remix-run/react-router), [Redux/React Redux](https://github.com/reduxjs/react-redux), [JSON server](https://github.com/typicode/json-server/tree/v0), [Zod](https://github.com/colinhacks/zod), [Tailwind](https://github.com/tailwindlabs/tailwindcss)
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+###Functionality:
+- Login in/out
+- Sign up 
+- Create note, edit note, preview note, delete note
+  
