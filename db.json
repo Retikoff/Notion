@@ -1,0 +1,51 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "a@mail.ru",
+      "password": "123456Ab",
+      "date": "30.10.2024 11:00:01"
+    },
+    {
+      "id": "7bdb",
+      "email": "fff@gmail.com",
+      "password": "123456Ab",
+      "date": "22.11.2024, 22:44:49"
+    },
+    {
+      "id": "1a3a",
+      "email": "a3@mail.ru",
+      "password": "123456Ab",
+      "date": "07.12.2024, 21:42:48"
+    },
+    {
+      "id": "e356",
+      "email": "a5@gmail.com",
+      "password": "123456Ab",
+      "date": "07.12.2024, 22:56:17"
+    }
+  ],
+  "notes": [
+    {
+      "id": "3",
+      "userId": "2",
+      "title": "Two first",
+      "body": "what a wonderfull day",
+      "date": "18.11.2024"
+    },
+    {
+      "id": "df6a",
+      "title": "Note",
+      "body": "empty",
+      "userId": "1",
+      "date": "22.11.2024"
+    },
+    {
+      "id": "1937",
+      "title": "Testing testing",
+      "body": "just a note",
+      "userId": "7bdb",
+      "date": "22.11.2024"
+    }
+  ]
+}
